@@ -23,18 +23,15 @@
 
 ```ts
 const ayush = {
-  location: "Delhi NCR, India 🇮🇳",
+  location: "Delhi NCR, India",
   education: "B.Tech CSE @ ABES Engineering College, AKTU (2023–2027)",
   currentFocus: "Building production-grade full-stack products",
-  leetcode: "500+ problems solved | Contest Rating: 1700+",
-  chessClub: "Design Head & Tech Lead @ En Passant Chess Club",
-  funFact: "I deploy before I debug 😅 (not really, I use Postman)"
+  leetcode: "500+ problems solved | Contest Rating: 1700+"
 };
 ```
 
 - 🔭 Currently working on **real-time collaborative systems & AI-powered tools**
-- 🌱 Exploring **system design, distributed systems & advanced DevOps**
-- 🏆 Freelanced on a live **e-commerce platform** for a clothing brand (Utaran)
+- 🌱 Exploring **system design, agentic ai, distributed systems & advanced DevOps**
 - ⚡ Built and deployed production apps on **DigitalOcean VPS** with Docker + Nginx
 
 ---
@@ -93,12 +90,6 @@ const ayush = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyShakya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyShakya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyShakya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
