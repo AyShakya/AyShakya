@@ -92,7 +92,7 @@ const ayush = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyShakya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyShakya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="80%"/>
 </div>
 
 ---
@@ -132,7 +132,5 @@ const ayush = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 **Open to internships, collaborations, and interesting side projects!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AyShakya&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
