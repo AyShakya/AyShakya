@@ -89,21 +89,13 @@ const ayush = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyShakya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-</div>
-
----
-
 ## LeetCode Journey
 
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushshakya_24?theme=dark&font=Nunito&ext=heatmap)
 
-> **500+ problems solved** • **Contest Rating: 1700+** • Primary language: **Java**
+ **500+ problems solved** • **Contest Rating: 1700+** • Primary language: **Java**
 
 </div>
 
