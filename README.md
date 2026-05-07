@@ -30,9 +30,9 @@ const ayush = {
 };
 ```
 
-- 🔭 Currently working on **real-time collaborative systems & AI-powered tools**
-- 🌱 Exploring **system design, agentic ai, distributed systems & advanced DevOps**
-- ⚡ Built and deployed production apps on **DigitalOcean VPS** with Docker + Nginx
+- Currently working on **real-time collaborative systems & AI-powered tools**
+- Exploring **system design, agentic ai, distributed systems & advanced DevOps**
+- Built and deployed production apps on **DigitalOcean VPS** with Docker + Nginx
 
 ---
 
@@ -74,16 +74,16 @@ const ayush = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🖊️ **LiveDesk** | Real-time collaborative editing platform with multi-user sync | `TypeScript` `WebSockets` `PostgreSQL` `Redis` `Docker` `Nginx` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| 📅 **EventEase** | Full-stack event management platform with RBAC & JWT auth | `React.js` `Node.js` `JWT` `MongoDB` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| 🍳 **Cooked** | AI-powered social profile analyzer for GitHub & Reddit | `LLM APIs` `Node.js` `Prompt Engineering` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| 🛍️ **Utaran Store** | Scalable e-commerce platform with Razorpay & Cloudinary | `Node.js` `MongoDB` `Razorpay` `REST APIs` | [Live Demo](#) |
+| **LiveDesk** | Real-time collaborative editing platform with multi-user sync | `TypeScript` `WebSockets` `PostgreSQL` `Redis` `Docker` `Nginx` | [GitHub](https://github.com/AyShakya) · [Live](#) |
+| **EventEase** | Full-stack event management platform with RBAC & JWT auth | `React.js` `Node.js` `JWT` `MongoDB` | [GitHub](https://github.com/AyShakya) · [Live](#) |
+| **Cooked** | AI-powered social profile analyzer for GitHub & Reddit | `LLM APIs` `Node.js` `Prompt Engineering` | [GitHub](https://github.com/AyShakya) · [Live](#) |
+| **Utaran Store** | Scalable e-commerce platform with Razorpay & Cloudinary | `Node.js` `MongoDB` `Razorpay` `REST APIs` | [Live Demo](#) |
 
 </div>
 
@@ -109,7 +109,7 @@ const ayush = {
 
 ---
 
-## 🎯 Achievements & Leadership
+## Achievements & Leadership
 
 - ♟️ **Design Head & Tech Lead** — En Passant Chess Club, ABES Engineering College
   - Built & architected the club's official website from scratch
@@ -119,7 +119,7 @@ const ayush = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyShakya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
