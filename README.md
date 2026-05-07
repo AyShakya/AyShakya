@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```ts
 const ayush = {
@@ -36,7 +36,7 @@ const ayush = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ const ayush = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyShakya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
@@ -97,7 +97,7 @@ const ayush = {
 
 ---
 
-## 🏆 LeetCode Journey
+## LeetCode Journey
 
 <div align="center">
 
@@ -111,11 +111,11 @@ const ayush = {
 
 ## Achievements & Leadership
 
-- ♟️ **Design Head & Tech Lead** — En Passant Chess Club, ABES Engineering College
+- **Design Head & Tech Lead** — En Passant Chess Club, ABES Engineering College
   - Built & architected the club's official website from scratch
   - Led a team of 3–4 junior developers | Helped organize 3–4 club events
-- ⚔️ **ZeroArena Hackathon** — Competed as part of a 6-member team under time-bound conditions
-- 🎓 **CGPA: 8.4/10** @ ABES Engineering College | **93% in Class XII** (CBSE)
+- **ZeroArena Hackathon** — Competed as part of a 6-member team under time-bound conditions
+- **CGPA: 8.4/10** @ ABES Engineering College | **93% in Class XII** (CBSE)
 
 ---
 
@@ -131,7 +131,7 @@ const ayush = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-**🤝 Open to internships, collaborations, and interesting side projects!**
+**Open to internships, collaborations, and interesting side projects!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AyShakya&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
