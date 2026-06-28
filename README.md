@@ -1,128 +1,160 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayush%20Shakya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:2563EB&height=220&section=header&text=Ayush%20Shakya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend-Leaning%20Full-Stack%20Engineer%20•%20Building%20Production%20Software%20&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Real-time+systems+%26+WebSockets+fan+%E2%9A%A1;500%2B+LeetCode+problems+solved+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+production-grade+full-stack+applications;Learning+distributed+systems+and+system+design;Exploring+Agentic+AI+and+developer+tooling;Always+shipping.+Always+learning." />
 
-<br/>
+<br>
 
-<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shakya24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayushshakya_24)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayshakya24@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shamkyLearns)
 
 </div>
 
 ---
 
-## About Me
+# Hi 👋 I'm Ayush
 
-```ts
-const ayush = {
-  location: "Delhi NCR, India",
-  education: "B.Tech CSE @ ABES Engineering College, AKTU (2023–2027)",
-  currentFocus: "Building production-grade full-stack products",
-  leetcode: "500+ problems solved | Contest Rating: 1700+"
-};
-```
+I'm a backend-leaning full-stack developer passionate about building software that solves real problems—not just projects that work on localhost.
 
-- Currently working on **real-time collaborative systems & AI-powered tools**
-- Exploring **system design, agentic ai, distributed systems & advanced DevOps**
-- Built and deployed production apps on **DigitalOcean VPS** with Docker + Nginx
+I enjoy understanding systems from the inside out, whether that's databases, networking, operating systems, distributed systems, or modern AI architectures.
+
+Currently, I'm focused on building production-grade applications while exploring how AI agents can automate complex developer and business workflows.
 
 ---
 
-## Tech Stack
+# Current Focus
+
+- Building scalable backend systems
+- Agentic AI applications
+- Distributed systems & System Design
+- Cloud infrastructure & DevOps
+- High-performance software engineering
+
+---
+
+# Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+
+React • Redux Toolkit • TailwindCSS • GSAP
+
+### Backend
+
+Node.js • Express • PostgreSQL • MongoDB • Redis
+
+### Infrastructure
+
+Docker • Linux • Nginx • Git • GitHub Actions • DigitalOcean
+
+---
+
+# Featured Projects
+
+## 🚀 LiveDesk
+
+A production-ready collaborative workspace with real-time synchronization.
+
+**Highlights**
+
+- WebSockets
+- Redis Pub/Sub
+- PostgreSQL
+- Docker
+- Nginx
+- Horizontal Scaling
+
+---
+
+## 🤖 Catalyst
+
+An AI-powered CRM & marketing assistant that transforms natural language into business workflows.
+
+**Highlights**
+
+- LLM APIs
+- Prompt Engineering
+- PostgreSQL
+- Agentic Workflows
+
+---
+
+## 🛒 Utaran Store
+
+A complete e-commerce platform with authentication, payments, image storage, analytics and deployment.
+
+**Highlights**
+
+- MERN Stack
+- Razorpay
+- Cloudinary
+- JWT Authentication
+- Docker Deployment
+
+---
+
+# Learning Roadmap
+
+Currently diving deeper into
+
+- Distributed Systems
+- System Design
+- Agentic AI
+- Cloud Architecture
+- Kubernetes
+- Observability
+- Security Engineering
+
+---
+
+# Competitive Programming
+
+- 550+ LeetCode Problems Solved
+- Java as Primary Language
+- Strong foundation in Data Structures & Algorithms
 
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://leetcard.jacoblin.cool/ayushshakya_24?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
 ---
 
-## Featured Projects
+# Leadership & Achievements
 
-<div align="center">
-
-| Project | Description | Tech | Links |
-|--------|-------------|------|-------|
-| **LiveDesk** | Real-time collaborative editing platform with multi-user sync | `TypeScript` `WebSockets` `PostgreSQL` `Redis` `Docker` `Nginx` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| **EventEase** | Full-stack event management platform with RBAC & JWT auth | `React.js` `Node.js` `JWT` `MongoDB` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| **Cooked** | AI-powered social profile analyzer for GitHub & Reddit | `LLM APIs` `Node.js` `Prompt Engineering` | [GitHub](https://github.com/AyShakya) · [Live](#) |
-| **Utaran Store** | Scalable e-commerce platform with Razorpay & Cloudinary | `Node.js` `MongoDB` `Razorpay` `REST APIs` | [Live Demo](#) |
-
-</div>
+- 🎯 Design Head & Tech Lead — En Passant Chess Club
+- 🚀 Built and deployed multiple production applications
+- 🏆 Participated in national-level hackathons
+- 📚 B.Tech Computer Science (2023–2027)
 
 ---
 
-## LeetCode Journey
+# GitHub Activity
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayushshakya_24?theme=dark&font=Nunito&ext=heatmap)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyShakya&bg_color=0D1117&color=60A5FA&line=2563EB&point=ffffff&area=true&hide_border=true"/>
 
- **500+ problems solved** • **Contest Rating: 1700+** • Primary language: **Java**
-
-</div>
-
----
-
-## Achievements & Leadership
-
-- **Design Head & Tech Lead** — En Passant Chess Club, ABES Engineering College
-  - Built & architected the club's official website from scratch
-  - Led a team of 3–4 junior developers | Helped organize 3–4 club events
-- **ZeroArena Hackathon** — Competed as part of a 6-member team under time-bound conditions
-- **CGPA: 8.4/10** @ ABES Engineering College | **93% in Class XII** (CBSE)
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyShakya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+### Always building something interesting.
 
-**Open to internships, collaborations, and interesting side projects!**
+Open to collaborating on impactful software, backend engineering, and AI systems.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1020&height=120&section=footer"/>
