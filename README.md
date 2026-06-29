@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:2563EB&height=220&section=header&text=Ayush%20Shakya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend-Leaning%20Full-Stack%20Engineer%20•%20Building%20Production%20Software%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:2563EB&height=220&section=header&text=Ayush%20Shakya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend-Leaning%20Full-Stack%20Engineer%20•%20Exploring%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+production-grade+full-stack+applications;Learning+distributed+systems+and+system+design;Exploring+Agentic+AI+and+developer+tooling;Always+shipping.+Always+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+backend-heavy+products+end-to-end;Exploring+how+agentic+AI+fits+into+real+software;550%2B+DSA+problems+solved+in+Java;Always+shipping.+Always+learning." />
 
 <br>
 
@@ -16,21 +16,18 @@
 
 # Hi 👋 I'm Ayush
 
-I'm a backend-leaning full-stack developer passionate about building software that solves real problems—not just projects that work on localhost.
+I'm a backend-leaning full-stack developer — I like living in databases, APIs, scalability, and security, not just the parts that show up in a demo. I build complete, end-to-end products and try to treat each one like something a real user will touch, not an assignment to turn in.
 
-I enjoy understanding systems from the inside out, whether that's databases, networking, operating systems, distributed systems, or modern AI architectures.
-
-Currently, I'm focused on building production-grade applications while exploring how AI agents can automate complex developer and business workflows.
+Lately I'm deep into agentic AI — figuring out how autonomous agents actually fit into real software, not just power a chatbot.
 
 ---
 
 # Current Focus
 
-- Building scalable backend systems
-- Agentic AI applications
-- Distributed systems & System Design
-- Cloud infrastructure & DevOps
-- High-performance software engineering
+- Backend systems — APIs, databases, scalability
+- Agentic AI in real products, not just chatbots
+- System design & distributed systems
+- DevOps — Docker, Nginx, CI/CD
 
 ---
 
@@ -51,6 +48,10 @@ React • Redux Toolkit • TailwindCSS • GSAP
 
 Node.js • Express • PostgreSQL • MongoDB • Redis
 
+### AI & Agentic Tooling
+
+LLM APIs • Pinecone (RAG) • Prompt Engineering • Agentic Workflows • BullMQ
+
 ### Infrastructure
 
 Docker • Linux • Nginx • Git • GitHub Actions • DigitalOcean
@@ -59,18 +60,17 @@ Docker • Linux • Nginx • Git • GitHub Actions • DigitalOcean
 
 # Featured Projects
 
-## 🚀 LiveDesk
+## 🛡️ WatcherAgent
 
-A production-ready collaborative workspace with real-time synchronization.
+An AI-governed incident response agent that triages production alerts and opens fixes autonomously, with a human in the loop.
 
 **Highlights**
 
-- WebSockets
-- Redis Pub/Sub
-- PostgreSQL
-- Docker
-- Nginx
-- Horizontal Scaling
+- 5-Node Agentic Pipeline
+- LLM-Based Triage
+- BullMQ + Redis Queues
+- Pinecone Vector Memory (RAG)
+- Docker + Nginx Deployment
 
 ---
 
@@ -87,9 +87,24 @@ An AI-powered CRM & marketing assistant that transforms natural language into bu
 
 ---
 
+## 🚀 LiveDesk
+
+A production-ready collaborative workspace with real-time synchronization.
+
+**Highlights**
+
+- WebSockets
+- Redis Pub/Sub
+- PostgreSQL
+- Docker
+- Nginx
+- Horizontal Scaling
+
+---
+
 ## 🛒 Utaran Store
 
-A complete e-commerce platform with authentication, payments, image storage, analytics and deployment.
+A complete e-commerce platform for a clothing-brand client — authentication, payments, image storage, analytics, and deployment, optimized down to $0/month infra cost.
 
 **Highlights**
 
@@ -132,8 +147,8 @@ Currently diving deeper into
 # Leadership & Achievements
 
 - 🎯 Design Head & Tech Lead — En Passant Chess Club
-- 🚀 Built and deployed multiple production applications
-- 🏆 Participated in national-level hackathons
+- 🏆 ZeroArena Hackathon — 6-member team
+- 🛡️ Built WatcherAgent prototype at the India.RUNS Hackathon
 - 📚 B.Tech Computer Science (2023–2027)
 
 ---
@@ -152,7 +167,7 @@ Currently diving deeper into
 
 ### Always building something interesting.
 
-Open to collaborating on impactful software, backend engineering, and AI systems.
+Open to SDE internships & full-time roles — full-stack, backend, or agentic AI. Always up for collaborating on interesting builds too.
 
 </div>
 
