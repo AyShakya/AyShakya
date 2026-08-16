@@ -18,8 +18,6 @@ Backend-leaning full-stack developer — I build complete, end-to-end products a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyShakya&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" />
-
 Open to SDE internships & full-time roles.
 
 </div>
